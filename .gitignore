@@ -1,0 +1,8 @@
+runs/
+*.gds
+*.lef
+*.def
+*.spice
+*.log
+.DS_Store
+Thumbs.db
